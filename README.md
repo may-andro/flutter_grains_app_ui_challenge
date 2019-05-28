@@ -9,7 +9,7 @@ https://www.uplabs.com/tharun1
 ![adidas](https://user-images.githubusercontent.com/16761273/52116371-f90d5200-2636-11e9-8292-b7ac0b9e680e.png)
 
 ## Implemented Design
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/16761273/58459946-351a7480-814a-11e9-906a-10882ac48977.gif)
+![2019_05_28_12_54_53](https://user-images.githubusercontent.com/16761273/58460087-83c80e80-814a-11e9-9f44-1e741405e179.gif)
 
 ## Concept Used
 1. Animations
