@@ -5,9 +5,6 @@ A new Flutter application based on Dribble Challenge at : https://www.uplabs.com
 ## Design Credit
 https://www.uplabs.com/tharun1
 
-## Expected Design
-![adidas](https://user-images.githubusercontent.com/16761273/52116371-f90d5200-2636-11e9-8292-b7ac0b9e680e.png)
-
 ## Implemented Design
 ![2019_05_28_12_54_53](https://user-images.githubusercontent.com/16761273/58460087-83c80e80-814a-11e9-9f44-1e741405e179.gif)
 
